@@ -214,13 +214,13 @@ body {
 	background-color: #e1f1ff;
 }
 
-.pricing-button .is-featured {
+.pricing-button.is-featured {
 	background-color: #48aaff;
 	color: white;
 }
 
-.pricing-button .isfeatured:hover,
-.pricing-button .isfeatured:focus {
+.pricing-button.is-featured:hover,
+.pricing-button.is-featured:focus {
 	background-color: #269aff;
-	color: white; 	 
+	color: white;
 }
